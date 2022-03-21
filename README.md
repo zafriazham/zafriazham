@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zafriazham
-- 👀 I’m interested in Web Development Projects that using PHP, JavaScript Frameworks, and Flutter Development
-- 🌱 I’m currently learning Web Servers, Apache, Deployment, Remote Server
+- 👀 I’m interested in Web Development Projects that using PHP, JavaScript Frameworks, and React Native App Development
+- 🌱 I’m currently learning Web Servers, Apache, Deployment, Linux, Virtualization
 - 📫 How to reach me -> 
 
 <!---
